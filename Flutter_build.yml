@@ -19,7 +19,7 @@ channel: 'stable'
 
 -name: install dependencies
  run: |
- cd escala_top
+ cd EscalaTop/escala_top
  flutter pub get
 
 -name: build apk
